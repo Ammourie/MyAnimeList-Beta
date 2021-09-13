@@ -27,7 +27,7 @@ Our app will help keep you on touch with these things:<br>
 
 
 ## 💾 Downloads
-[![Github All Releases](https://img.shields.io/github/downloads/Ammourie/MyAnimeList-Beta/total.svg?color=4DC71F&label=Downloads&logo=github")](https://github.com/Ammourie/MyAnimeList-Beta/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/Ammourie/MyAnimeList-Beta/total.svg?color=4DC71F&label=Downloads&logo="github")](https://github.com/Ammourie/MyAnimeList-Beta/releases/latest)
 
 MyAnimeList Beta works on Android 4.1+
 
